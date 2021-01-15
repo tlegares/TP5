@@ -20,7 +20,7 @@ using namespace std;
  */
 int main() {
     cout << "Bonjour" << endl;
-    cout << "Aurevoir" << endl;
+    cout << "hello world" << endl;
 
     return 0;
 }
